@@ -66,7 +66,7 @@
 #   messages to identify the problem.
 # - For further assistance or to report bugs, you can open an issue on the
 #   GitHub repository of this project:
-#   https://github.com/amedomaro/my_awesome_install_script/issues
+#   https://github.com/KarpuninP/autosetup-sh.git
 
 #==============================================================================
 #                           Contributions
