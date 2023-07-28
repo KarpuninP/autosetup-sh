@@ -8,9 +8,9 @@
 ╰╯╱╰┻┻┻┻━━┻━━┻━━┻┻┻┻╯╰┻╯╰━━╯╰━━┻╯╱╰━┻━━━┻╯
 
 </pre>
-![GitHub repo](link/to/github_icon.png)
-![Ask a question](link/to/question_icon.png)
-![License](link/to/license_icon.png)
+![GitHab repo](https://img.shields.io/badge/Repo-GitHub-yellow?link=https%3A%2F%2Fgithub.com%2FKarpuninP%2Fautosetup-sh)
+![Ask a question](https://img.shields.io/badge/Ask-Telegram-yellow?link=https%3A%2F%2Ft.me%2Famedomaro)
+![License](https://img.shields.io/badge/License-MIT-blue?link=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
 <img src="https://www.cdnlogo.com/logos/o/94/open-source.svg" alt="Open Source Project Logo" height="30">
 
 # Software Installation Script
