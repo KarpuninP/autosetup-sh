@@ -47,7 +47,7 @@ This is a script that automates the installation of various software packages on
 
 ## Usage
 
-    Usage: autosetup.sh
+    bash autosetup.sh
 
 This command will run the script and present you with the software menu packages you can choose to install. Use arrow keys to navigate through and press SPACE to select or deselect options. After you have made your selection, press ENTER to start the installation process. The script will then automatically install the selected software packages on your system. Follow the instructions on the command line.
 
